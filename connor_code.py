@@ -4,6 +4,7 @@ from pandas import DataFrame
 import numpy as np
 from pathlib import Path
 import datetime
+import requests
 
 pb.cache.enable()
 
@@ -75,4 +76,12 @@ def add_ucl_injuries_to_table():
     season_tots['UCL_Injury'] = ucl_injury_season
     season_tots.to_csv(Path('season_tots.csv'))
     
-add_ucl_injuries_to_table()
+def get_game_codes():
+    all_games = []
+    for i in range(2015, 2024):
+        response = requests.get(f'https://statsapi.mlb.com/api/v1/schedule?sportId=1&startDate={i}-01-01&endDate={i}-12-31&gameType=R&fields=dates,date,games,gamePk')
+        json = response.json()
+        for date in json['dates']:
+            for game in date['games']:
+                all_games.append(game['gamePk'])
+    return all_games
