@@ -1,4 +1,4 @@
-Player,Date,Team,Level,"Return Date(same level)",Recovery Time (months),"Return Date(any level)",TJ Surgery Date,Surgeon(s),Recovery Schedule
+Player,Date,Team,Level,"Return Date(same level)",Recovery Time (months),"Return Date(any level)",TJ_Surgery_Date,Surgeon(s),Recovery Schedule
 Shohei Ohtani,9/19/2023,LAA,MLB,,,,,Dr. Neal ElAttrache,
 Brendan Donovan,8/2/2023,STL,MLB,,,,,Dr. Keith Meister,
 Drew Rasmussen,7/24/2023,TB,MLB,,,,,Dr. Keith Meister,
