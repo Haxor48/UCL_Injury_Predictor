@@ -33,7 +33,7 @@ To run our code, you will need to follow the following steps:
 - **save_delta:** Saves the game-by-game differences
 - **drop_na:** Removes columns where the values are na (Issue with the Baseball Savant API)
 
-### Usuable Methods(Will give noticeable output for the user)
+### Usuable Methods (Will give noticeable output for the user)
 - **build_ucl_injuries:** Returns a dataframe with a list of every UCL injury
 - **add_ucl_injuries_to_table:** Returns a dataframe of Fangraphs pitcher data with lables signfying a UCL injury occurring, where the totals are for each season from 2018-2023
 - **get_spin:** Returns a dataframe of the season-long spin rate averages per pitch for each pitcher from 2018-2023
