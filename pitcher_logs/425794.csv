@@ -1,0 +1,6 @@
+,pitch_name,pitch_num,pitch_type,game_date,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+0,Cutter,46,FC,2015-04-05,86.59565217391307,-1.2906521739130437,54.5,,,,
+0,Curveball,26,CU,2015-04-05,75.92307692307692,-1.2407692307692304,54.5,,,,
+0,4-Seam Fastball,23,FF,2015-04-05,89.93478260869563,-1.2117391304347824,54.5,,,,
+0,Changeup,2,CH,2015-04-05,83.69999999999999,-1.565,54.5,,,,
+0,Sinker,4,SI,2015-04-05,89.375,-1.5525,54.5,,,,

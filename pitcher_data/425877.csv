@@ -1,0 +1,7 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+Curveball,7,CU,2022-05-22,0,54.971428571428575,-2.085714285714286,56.05428571428571,,,,
+Other,12,FA,2022-05-22,0,61.166666666666686,-2.098333333333333,56.23166666666666,,,,
+Eephus,1,EP,2022-05-22,0,42.9,-1.95,56.44,,,,
+4-Seam Fastball,6,FF,2022-06-08,0,81.33333333333333,-1.9116666666666664,55.48666666666667,,,,
+Curveball,13,CU,2022-06-08,0,52.25384615384615,-1.8807692307692303,56.03076923076923,,,,
+Slider,1,SL,2022-06-08,0,61.0,-1.56,55.95,,,,

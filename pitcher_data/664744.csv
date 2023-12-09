@@ -1,0 +1,4 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+Slider,8,SL,2023-09-24,0,83.3125,-1.1875,54.165000000000006,,,,
+4-Seam Fastball,12,FF,2023-09-24,0,92.85833333333332,-1.2491666666666668,54.26500000000001,,,,
+Split-Finger,5,FS,2023-09-24,0,88.3,-1.4440000000000002,54.318000000000005,,,,

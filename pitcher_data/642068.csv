@@ -1,0 +1,7 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+4-Seam Fastball,9,FF,2022-07-31,0,94.34444444444443,-1.2977777777777777,54.87222222222223,,,,
+Changeup,5,CH,2022-07-31,0,89.03999999999999,-1.488,54.936,,,,
+Slider,3,SL,2022-07-31,0,88.36666666666667,-1.4366666666666668,55.07666666666668,,,,
+4-Seam Fastball,8,FF,2022-08-01,0,92.9,-1.0937500000000002,54.8525,,,,
+Changeup,4,CH,2022-08-01,0,88.6,-1.35,54.955,,,,
+Slider,8,SL,2022-08-01,0,86.87499999999999,-1.22875,54.95375,,,,

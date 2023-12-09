@@ -1,0 +1,4 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+Changeup,13,CH,2022-05-17,0,78.2923076923077,-2.111538461538461,55.19153846153847,,,,
+Slider,1,SL,2022-05-17,0,78.5,-2.28,55.16,,,,
+4-Seam Fastball,2,FF,2022-05-17,0,86.4,-1.88,55.215,,,,

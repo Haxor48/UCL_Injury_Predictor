@@ -1,0 +1,4 @@
+,pitch_name,pitch_num,pitch_type,game_date,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+0,Slider,3,SL,2015-04-05,85.46666666666665,-2.566666666666667,54.5,,,,
+0,4-Seam Fastball,11,FF,2015-04-05,94.56363636363635,-2.8136363636363635,54.5,,,,
+0,Changeup,5,CH,2015-04-05,86.46,-3.058,54.5,,,,

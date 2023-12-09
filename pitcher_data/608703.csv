@@ -1,0 +1,4 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+Other,10,FA,2022-05-04,0,68.22,-1.759,55.88399999999999,,,,
+Other,10,FA,2022-05-24,0,68.24,-2.481,55.761,,,,
+Curveball,1,CU,2022-05-24,0,58.3,-2.08,55.63,,,,

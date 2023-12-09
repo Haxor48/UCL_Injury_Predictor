@@ -1,0 +1,5 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+Eephus,8,EP,2022-07-10,0,48.8,-1.52375,55.99875,,,,
+Other,1,FA,2022-07-10,0,58.4,-2.0,56.28,,,,
+Eephus,15,EP,2022-08-05,0,51.63333333333334,-1.7466666666666666,55.83933333333334,,,,
+Other,2,FA,2022-08-05,0,62.1,-2.0,55.905,,,,

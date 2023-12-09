@@ -1,0 +1,4 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+Slider,10,SL,2022-06-27,0,86.95,-1.9790000000000003,53.84,,,,
+Curveball,8,CU,2022-06-27,0,82.725,-2.2462500000000003,53.97625000000001,,,,
+4-Seam Fastball,3,FF,2022-06-27,0,92.66666666666669,-1.98,53.79,,,,

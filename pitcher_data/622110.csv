@@ -1,0 +1,5 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+Other,8,FA,2023-06-28,0,77.85,-1.35875,55.72125000000001,,,,
+Changeup,3,CH,2023-06-28,0,72.03333333333335,-1.2266666666666668,55.47666666666667,,,,
+Other,14,FA,2023-08-26,0,78.14285714285714,-1.1892857142857145,55.554285714285705,,,,
+Changeup,4,CH,2023-08-26,0,70.72500000000001,-1.3224999999999998,55.38,,,,

@@ -1,0 +1,9 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+Cutter,17,FC,2023-07-19,0,92.1705882352941,-1.569411764705882,54.1764705882353,,,,
+Sweeper,1,ST,2023-07-19,0,88.0,-1.65,54.04,,,,
+4-Seam Fastball,1,FF,2023-07-19,0,99.8,-1.41,54.27,,,,
+Cutter,21,FC,2023-07-21,0,90.49523809523808,-1.83047619047619,54.12666666666666,,,,
+4-Seam Fastball,1,FF,2023-07-21,0,97.9,-1.49,54.13,,,,
+Sweeper,1,ST,2023-07-21,0,87.4,-1.89,54.22,,,,
+Cutter,20,FC,2023-07-24,0,93.195,-1.48,54.15749999999999,,,,
+4-Seam Fastball,3,FF,2023-07-24,0,98.93333333333332,-1.32,54.07,,,,

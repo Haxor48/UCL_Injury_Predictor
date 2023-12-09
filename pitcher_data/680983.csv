@@ -1,0 +1,6 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+Sinker,8,SI,2023-09-27,0,95.825,-1.2875,54.99125,,,,
+Curveball,7,CU,2023-09-27,0,81.85714285714286,-1.602857142857143,54.99,,,,
+Sinker,8,SI,2023-09-30,0,97.45,-1.20125,54.78625,,,,
+Changeup,6,CH,2023-09-30,0,88.64999999999999,-1.5883333333333332,54.93333333333334,,,,
+Curveball,7,CU,2023-09-30,0,82.38571428571429,-1.6885714285714286,55.03428571428572,,,,

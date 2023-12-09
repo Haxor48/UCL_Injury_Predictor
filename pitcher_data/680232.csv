@@ -1,0 +1,4 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+4-Seam Fastball,34,FF,2023-07-22,0,88.94411764705883,2.8723529411764708,52.884411764705874,,,,
+Slider,25,SL,2023-07-22,0,75.61200000000001,2.9079999999999995,52.952000000000005,,,,
+Changeup,16,CH,2023-07-22,0,82.42499999999998,3.0081249999999997,52.985000000000014,,,,

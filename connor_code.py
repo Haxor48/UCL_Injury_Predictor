@@ -78,10 +78,74 @@ def add_ucl_injuries_to_table():
     
 def get_game_codes():
     all_games = []
-    for i in range(2015, 2024):
+    for i in range(2022, 2024):
         response = requests.get(f'https://statsapi.mlb.com/api/v1/schedule?sportId=1&startDate={i}-01-01&endDate={i}-12-31&gameType=R&fields=dates,date,games,gamePk')
         json = response.json()
         for date in json['dates']:
             for game in date['games']:
                 all_games.append(game['gamePk'])
     return all_games
+    
+def update_game_by_game():
+
+    def convert_to_dataframe(name, pitch):
+        output = {'pitch_name': name, **pitch}
+        for field in output:
+            output[field] = [output[field]]
+        #print(DataFrame(output.update(pitch)))
+        return DataFrame.from_dict(output)
+
+    codes = get_game_codes()
+    fields = ['release_speed', 'release_pos_x', 'release_pos_y', 'spin_dir', 'spin_rate_deprecated', 
+            'break_angle_deprecated', 'break_length_deprecated']
+    pitcher_logs = {}
+    for code in codes[:1]:
+        game = pb.statcast_single_game(code)
+        if game is None:
+            continue
+        pitchers = {}
+        for index, row in game.iterrows():
+            print(pb.playerid_reverse_lookup([row['pitcher']], key_type='mlbam'))
+            if row['pitcher'] in pitchers:
+                if row['pitch_name'] in pitchers[row['pitcher']]:
+                    for field in fields:
+                        pitchers[row['pitcher']][row['pitch_name']][field] += row[field]
+                    pitchers[row['pitcher']][row['pitch_name']]['pitch_num'] += 1
+                else:
+                    pitchers[row['pitcher']][row['pitch_name']] = {'pitch_num': 1}
+                    pitchers[row['pitcher']][row['pitch_name']]['pitch_type'] = row['pitch_type']
+                    pitchers[row['pitcher']][row['pitch_name']]['game_date'] = row['game_date']
+                    pitchers[row['pitcher']][row['pitch_name']] = {**pitchers[row['pitcher']][row['pitch_name']], **{field: row[field] for field in fields}}
+            else:
+                pitchers[row['pitcher']] = {row['pitch_name']: {'pitch_num': 1}}
+                pitchers[row['pitcher']][row['pitch_name']]['pitch_type'] = row['pitch_type']
+                pitchers[row['pitcher']][row['pitch_name']]['game_date'] = row['game_date']
+                pitchers[row['pitcher']][row['pitch_name']] = {**pitchers[row['pitcher']][row['pitch_name']], **{field: row[field] for field in fields}}
+
+        for pitcher in pitchers:
+            for pitch in pitchers[pitcher]:
+                for field in fields:
+                    pitchers[pitcher][pitch][field] /= pitchers[pitcher][pitch]['pitch_num']
+                    
+        for pitcher in pitchers:
+            if pitcher not in pitcher_logs:
+                pitcher_logs[pitcher] = None
+                for pitch in pitchers[pitcher]:
+                    if pitcher_logs[pitcher] is None:
+                        pitcher_logs[pitcher] = convert_to_dataframe(pitch, pitchers[pitcher][pitch])
+                    else:
+                        pitcher_logs[pitcher] = pd.concat([pitcher_logs[pitcher], convert_to_dataframe(pitch, pitchers[pitcher][pitch])])
+            else:
+                for pitch in pitchers[pitcher]:
+                    pitcher_logs[pitcher]= pd.concat([pitcher_logs[pitcher], convert_to_dataframe(pitch, pitchers[pitcher][pitch])])
+                    
+    ##for pitcher in pitcher_logs:
+        ##pitcher_logs[pitcher].to_csv(Path(f'.\\pitcher_logs\\{pitcher}.csv'))
+
+def remove_accents(name):
+        temp = name.replace('á', 'a').replace('é', 'e').replace('í', 'i').replace('ó', 'o').replace('ú', 'u').replace('ñ', 'n').replace('ü', 'u').replace('Á', 'A')
+        return temp.replace('É', 'E').replace('Í', 'I').replace('Ó', 'O').replace('Ú', 'U').replace('Ñ', 'N').replace('Ü', 'U')
+        
+output = pb.playerid_reverse_lookup([660271], key_type='mlbam')
+name = remove_accents(output.iloc[0]['name_first']) + ' ' + remove_accents(output.iloc[0]['name_last'])
+print(name)

@@ -1,0 +1,4 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+Curveball,2,CU,2022-06-17,0,55.45,-2.015,55.64,,,,
+Other,4,FA,2022-06-17,0,64.775,-2.1275,55.7025,,,,
+Knuckleball,7,KN,2022-06-17,0,59.84285714285714,-2.1,55.81142857142857,,,,

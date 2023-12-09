@@ -1,0 +1,4 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+Other,9,FA,2023-07-07,0,67.75555555555555,-1.0888888888888888,55.60555555555556,,,,
+Curveball,1,CU,2023-07-07,0,61.9,-0.92,55.38,,,,
+Eephus,1,EP,2023-07-07,0,62.4,-1.27,55.77,,,,

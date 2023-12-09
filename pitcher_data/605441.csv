@@ -1,0 +1,8 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+4-Seam Fastball,31,FF,2023-06-22,0,96.1774193548387,-1.3419354838709676,53.901935483870986,,,,
+Split-Finger,1,FS,2023-06-22,0,87.0,-0.96,53.58,,,,
+Slider,12,SL,2023-06-22,0,86.17500000000001,-1.2658333333333334,53.9125,,,,
+4-Seam Fastball,10,FF,2023-06-25,0,97.67,-1.83,54.163,,,,
+Slider,5,SL,2023-06-25,0,88.22,-1.958,54.166,,,,
+4-Seam Fastball,1,FF,2023-06-28,0,94.6,-1.42,54.05,,,,
+Slider,2,SL,2023-06-28,0,85.15,-1.685,54.155,,,,

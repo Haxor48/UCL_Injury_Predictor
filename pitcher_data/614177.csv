@@ -1,0 +1,5 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+Sinker,1,SI,2022-08-23,0,89.8,-1.33,54.4,,,,
+4-Seam Fastball,3,FF,2022-08-23,0,87.63333333333333,-1.36,54.49666666666666,,,,
+Curveball,2,CU,2022-08-23,0,71.0,-1.5550000000000002,54.615,,,,
+Changeup,4,CH,2022-08-23,0,83.925,-1.4025,54.75749999999999,,,,

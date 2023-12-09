@@ -1,0 +1,7 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+Curveball,3,CU,2022-06-12,0,84.96666666666665,-2.296666666666667,54.28333333333334,,,,
+4-Seam Fastball,3,FF,2022-06-12,0,99.5,-2.23,54.25,,,,
+Changeup,3,CH,2022-06-12,0,91.03333333333332,-2.393333333333333,54.09333333333333,,,,
+Curveball,3,CU,2022-08-01,0,82.00000000000001,-2.36,54.46,,,,
+Changeup,12,CH,2022-08-01,0,90.59166666666664,-2.351666666666667,54.178333333333335,,,,
+4-Seam Fastball,19,FF,2022-08-01,0,99.23684210526314,-2.394736842105264,54.35157894736841,,,,

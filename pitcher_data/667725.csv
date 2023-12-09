@@ -1,0 +1,6 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+4-Seam Fastball,11,FF,2022-06-14,0,90.61818181818182,-1.554545454545455,53.49,,,,
+Curveball,6,CU,2022-06-14,0,76.14999999999999,-1.6666666666666667,53.531666666666666,,,,
+Changeup,1,CH,2022-06-14,0,84.2,-1.48,53.42,,,,
+Curveball,5,CU,2022-06-15,0,77.02,-1.748,53.622,,,,
+4-Seam Fastball,17,FF,2022-06-15,0,90.14117647058822,-1.728235294117647,53.54352941176471,,,,

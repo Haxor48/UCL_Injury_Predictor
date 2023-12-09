@@ -1,0 +1,9 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+Slider,3,SL,2022-05-08,0,84.73333333333333,2.6133333333333333,54.22666666666667,,,,
+Changeup,6,CH,2022-05-08,0,81.53333333333335,2.595,54.46333333333333,,,,
+Curveball,5,CU,2022-05-08,0,75.78,2.402,54.396,,,,
+4-Seam Fastball,8,FF,2022-05-08,0,89.26249999999999,2.42125,54.24625,,,,
+4-Seam Fastball,8,FF,2022-05-09,0,88.525,2.46875,54.3025,,,,
+Changeup,1,CH,2022-05-09,0,83.2,2.65,54.48,,,,
+Curveball,6,CU,2022-05-09,0,75.18333333333332,2.453333333333333,54.46333333333333,,,,
+Slider,3,SL,2022-05-09,0,84.63333333333334,2.6,54.44,,,,

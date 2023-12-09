@@ -1,0 +1,6 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+4-Seam Fastball,25,FF,2023-10-01,0,93.88,-1.7128,53.8364,,,,
+Changeup,5,CH,2023-10-01,0,88.78,-1.558,53.592000000000006,,,,
+Sinker,24,SI,2023-10-01,0,92.80416666666666,-1.7029166666666669,53.76958333333332,,,,
+Curveball,28,CU,2023-10-01,0,83.18571428571428,-1.589642857142857,53.85285714285715,,,,
+Slider,7,SL,2023-10-01,0,86.84285714285714,-1.6914285714285715,53.86142857142857,,,,

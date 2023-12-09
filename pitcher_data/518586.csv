@@ -1,0 +1,5 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+Other,10,FA,2022-06-15,0,88.97,-1.4650000000000003,55.06400000000001,,,,
+Slider,1,SL,2022-06-15,0,78.2,-1.79,55.09,,,,
+Other,16,FA,2022-09-02,0,90.05,-1.294375,55.223125,,,,
+Slider,1,SL,2022-09-02,0,81.1,-1.19,55.1,,,,

@@ -1,0 +1,4 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+Changeup,1,CH,2023-07-03,0,86.8,-1.33,53.46,,,,
+4-Seam Fastball,3,FF,2023-07-03,0,94.09999999999998,-0.59,53.88,,,,
+Sweeper,7,ST,2023-07-03,0,82.21428571428571,-1.5271428571428571,53.51857142857143,,,,

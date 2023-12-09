@@ -1,0 +1,5 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+Slider,29,SL,2022-07-25,0,86.65172413793104,-1.4313793103448276,53.9548275862069,,,,
+Knuckle Curve,7,KC,2022-07-25,0,79.74285714285713,-1.2814285714285714,54.04857142857144,,,,
+4-Seam Fastball,4,FF,2022-07-25,0,95.25,-1.5175,53.99,,,,
+Sinker,7,SI,2022-07-25,0,96.07142857142856,-1.4371428571428573,53.85857142857143,,,,

@@ -1,0 +1,4 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+4-Seam Fastball,10,FF,2022-07-13,0,97.24,-2.381,54.474,,,,
+Slider,4,SL,2022-07-13,0,88.07499999999999,-2.61,54.51,,,,
+Sinker,2,SI,2022-07-13,0,96.55,-2.38,54.31,,,,

@@ -1,0 +1,5 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+Slider,18,SL,2022-08-16,0,82.6277777777778,-2.015555555555556,54.43166666666666,,,,
+Sinker,17,SI,2022-08-16,0,92.80588235294118,-2.2747058823529414,54.56411764705882,,,,
+4-Seam Fastball,9,FF,2022-08-16,0,93.0888888888889,-1.958888888888889,54.586666666666666,,,,
+Changeup,7,CH,2022-08-16,0,86.45714285714287,-1.9157142857142857,54.377142857142864,,,,

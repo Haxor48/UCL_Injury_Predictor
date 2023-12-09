@@ -1,0 +1,4 @@
+,pitch_name,pitch_num,pitch_type,game_date,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+0,4-Seam Fastball,12,FF,2015-04-05,97.39999999999999,-0.9808333333333333,54.5,,,,
+0,Changeup,3,CH,2015-04-05,86.66666666666667,-0.7933333333333333,54.5,,,,
+0,Curveball,1,CU,2015-04-05,78.9,-0.7,54.5,,,,

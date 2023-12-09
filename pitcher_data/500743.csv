@@ -1,0 +1,7 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+Eephus,8,EP,2023-07-30,0,48.8625,-1.68125,56.075,,,,
+Other,5,FA,2023-07-30,0,71.56,-1.582,55.672,,,,
+Eephus,8,EP,2023-08-18,0,42.6125,-1.5575,57.04124999999999,,,,
+Other,4,FA,2023-08-18,0,67.85,-1.25,56.23,,,,
+Eephus,9,EP,2023-09-28,0,45.36666666666667,-1.247777777777778,56.91,,,,
+Other,3,FA,2023-09-28,0,67.0,-1.2433333333333334,56.306666666666665,,,,

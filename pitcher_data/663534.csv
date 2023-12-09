@@ -1,0 +1,4 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+4-Seam Fastball,9,FF,2022-10-05,0,94.17777777777776,-1.1933333333333331,53.690000000000005,,,,
+Cutter,6,FC,2022-10-05,0,86.96666666666665,-1.4516666666666669,53.68333333333334,,,,
+Curveball,1,CU,2022-10-05,0,79.1,-1.26,53.79,,,,

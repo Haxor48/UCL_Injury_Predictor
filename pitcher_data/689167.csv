@@ -1,0 +1,10 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+Sweeper,25,ST,2023-04-03,0,79.27600000000001,-2.544,54.0988,,,,
+Changeup,8,CH,2023-04-03,0,84.67500000000001,-2.46625,53.955000000000005,,,,
+Sinker,47,SI,2023-04-03,0,90.2255319148936,-2.278510638297872,54.051063829787246,,,,
+Sinker,4,SI,2023-07-04,0,91.175,-2.1625,54.0725,,,,
+Sweeper,1,ST,2023-07-04,0,79.6,-2.59,53.98,,,,
+Changeup,1,CH,2023-07-04,0,85.9,-2.33,53.86,,,,
+Sinker,5,SI,2023-07-06,0,91.18,-2.126,53.688,,,,
+Sweeper,4,ST,2023-07-06,0,78.65,-2.51,54.1775,,,,
+Changeup,2,CH,2023-07-06,0,86.1,-2.4,53.99,,,,

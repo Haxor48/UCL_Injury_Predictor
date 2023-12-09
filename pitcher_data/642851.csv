@@ -1,0 +1,5 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+Slider,13,SL,2022-07-03,0,57.669230769230765,-0.9484615384615384,55.89384615384616,,,,
+Eephus,3,EP,2022-07-03,0,44.133333333333326,-0.7166666666666667,55.85999999999999,,,,
+Slider,4,SL,2022-08-26,0,58.05,-1.315,55.807500000000005,,,,
+Eephus,6,EP,2022-08-26,0,40.86666666666667,-1.0416666666666667,56.03833333333333,,,,

@@ -1,0 +1,4 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+Other,18,FA,2022-07-29,0,77.04444444444444,-1.3244444444444443,55.42666666666666,,,,
+Other,15,FA,2022-10-04,0,84.39333333333335,-1.5593333333333337,55.34066666666665,,,,
+Changeup,1,CH,2022-10-04,0,73.9,-1.67,55.24,,,,

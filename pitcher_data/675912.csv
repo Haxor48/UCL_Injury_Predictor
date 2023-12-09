@@ -1,0 +1,5 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+4-Seam Fastball,52,FF,2022-05-31,0,90.57500000000002,2.001346153846154,53.6476923076923,,,,
+Slider,20,SL,2022-05-31,0,81.86500000000001,2.1175000000000006,53.822500000000005,,,,
+Curveball,8,CU,2022-05-31,0,75.06250000000001,2.01375,53.81875,,,,
+Changeup,20,CH,2022-05-31,0,83.49499999999999,2.055,53.708000000000006,,,,

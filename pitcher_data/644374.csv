@@ -1,0 +1,6 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+Eephus,10,EP,2022-08-06,0,43.74,-1.604,56.089,,,,
+Other,2,FA,2022-08-06,0,77.55,-2.065,55.66,,,,
+Slider,1,SL,2022-08-12,0,40.4,-0.7,56.57,,,,
+Eephus,12,EP,2022-08-12,0,41.19166666666667,-1.5600000000000005,56.2475,,,,
+Curveball,1,CU,2022-08-12,0,40.4,-0.74,56.2,,,,

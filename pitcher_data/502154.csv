@@ -1,0 +1,6 @@
+pitch_name,pitch_num,pitch_type,game_date,injured,release_speed,release_pos_x,release_pos_y,spin_dir,spin_rate_deprecated,break_angle_deprecated,break_length_deprecated
+Sinker,16,SI,2022-09-24,0,93.25625000000002,1.0956249999999998,54.686875,,,,
+Slider,3,SL,2022-09-24,0,78.73333333333333,1.29,54.60666666666666,,,,
+Sinker,7,SI,2022-09-28,0,92.18571428571428,1.1771428571428568,54.83857142857142,,,,
+Slider,4,SL,2022-09-28,0,78.625,1.44,54.870000000000005,,,,
+Sinker,9,SI,2022-09-30,0,91.84444444444443,1.0444444444444445,54.69222222222223,,,,
