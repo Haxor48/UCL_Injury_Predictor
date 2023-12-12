@@ -2,6 +2,8 @@
 
 This is the repository of the CS 184A project titled "Predicting Ulnar Collateral Ligament (UCL) Injuries Among Major League Baseball Players" By Connor O'Rourke and Hanvish Vdaygiri
 
+[Final Project Report](https://haxor48.github.io/predicting_ucl_injuries/)
+
 ## Setup
 
 To run our code, you will need to follow the following steps:
